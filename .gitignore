@@ -1,0 +1,12 @@
+system_ext/priv-app/Settings/Settings.apk
+system_ext/apex/com.android.vndk.v30.apex
+product/priv-app/GmsCore/GmsCore.apk
+product/priv-app/Velvet/Velvet.apk
+product/app/WebViewGoogle/WebViewGoogle.apk
+boot.img
+system/system/priv-app/MiuiCamera/MiuiCamera.apk
+system/system/priv-app/MIUIGalleryGlobal/MIUIGalleryGlobal.apk
+bootimg/13_dtbdump__qcom,rtic-id.dtb
+modem.img
+vendor/etc/camera/megviifacepp_0_5_2_model
+vendor/lib64/libMegviiFacepp-0.5.2.so
