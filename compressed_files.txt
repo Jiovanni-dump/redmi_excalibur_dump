@@ -1,0 +1,9 @@
+system_ext/priv-app/Settings/Settings.apk.xz
+bootimg/13_dtbdump__qcom,rtic-id.dtb.xz
+boot.img.xz
+system/priv-app/MiuiCamera/MiuiCamera.apk.xz
+system/priv-app/MIUIGalleryGlobal/MIUIGalleryGlobal.apk.xz
+product/app/WebViewGoogle/WebViewGoogle.apk.xz
+product/priv-app/Velvet/Velvet.apk.xz
+product/priv-app/GmsCore/GmsCore.apk.xz
+modem.img.xz
